@@ -1,0 +1,8 @@
+openai
+faster-whisper
+requests
+python-dotenv
+pynput
+pyaudio
+gtts
+playsound
